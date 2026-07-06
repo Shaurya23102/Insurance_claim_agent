@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers==5.5.1
+chromadb
+langchain-text-splitters
+langchain-groq
+langchain-core
+python-dotenv
+numpy
