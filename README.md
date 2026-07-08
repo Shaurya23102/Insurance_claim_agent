@@ -252,12 +252,4 @@ docker run -p 8501:8501 -e GROQ_API_KEY="your_key" insurance-rag-agent
 
 ---
 
-## 📄 License
 
-This project is for educational and demonstration purposes.
-
----
-
-<p align="center">
-  Built with ❤️ by <a href="https://github.com/Shaurya23102">Shaurya</a>
-</p>
